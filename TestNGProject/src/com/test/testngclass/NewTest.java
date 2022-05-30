@@ -12,6 +12,14 @@ import org.testng.annotations.AfterSuite;
 
 public class NewTest {
   @Test
+	public void a() {
+ System.out.println("pankya");
+  
+  }
+	
+  
+  
+	@Test
   public void f() {
 	  System.out.println("i am test case");
   }
